@@ -1,0 +1,28 @@
+{
+  "name": "explosion-session",
+  "version": "0.0.1",
+  "description": "session use whith explosion",
+  "main": "index.js",
+  "directories": {},
+  "dependencies": {
+    "explosion": ""
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lastuniverse/explosion-session.git"
+  },
+  "keywords": [
+    "server",
+    "websocket",
+    "explosion",
+    "session"
+  ],
+  "author": "lastuniverse\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DRoman Surmanidze aka lastuniverse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lastuniverse/explosion-session/issues"
+  },
+  "homepage": "https://github.com/lastuniverse/explosion-session#readme"
+}
